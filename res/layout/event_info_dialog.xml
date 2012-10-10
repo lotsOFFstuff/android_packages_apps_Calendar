@@ -367,7 +367,7 @@
                     android:layout_marginBottom="-6dp"
                     android:gravity="center_vertical|left"
                     android:textSize="18sp"
-                    android:textColor="#FF777777"
+                    android:textColor="#CFCFCF"
                     android:minHeight="38dip"
                     android:background="?android:attr/selectableItemBackground"
                     android:contentDescription="@string/accessibility_add_reminder"
